@@ -1,3 +1,2 @@
 # hello-world
-Project 1 Hello World
-Hi I'm Aleck
+Guess I'm struggling with this assignment
